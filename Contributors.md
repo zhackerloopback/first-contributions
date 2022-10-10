@@ -1,7 +1,7 @@
 # Contributors
 - [Abhijeet](https://github.com/Abhithecoder-22)
 <!-- prettier-ignore-start -->
-
+-[zhackerloopback](https://github.com/zhackerloopback)
 -[mohd.salahudeen](https://github.com/Salah-XD)
 -[Mohammad Rahi](https://github.com/mohammad-rahi)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
@@ -65,7 +65,6 @@ anish
 - [Musketeer Computing] (https://github.com/musketeer-computing)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
-- [Julian Macioce](https://github.com/JMacioce)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
 -[Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
